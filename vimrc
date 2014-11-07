@@ -105,3 +105,5 @@ set sidescroll=1
 
 " ================ Custom Settings ========================
 so ~/.yadr/vim/settings.vim
+
+hi! Visual guibg=#005F78
